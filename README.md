@@ -126,7 +126,7 @@ server.listen(3000, () => {
 ```bash
 node server.js
 ```
-### • Buka file index.html di browser. Anda akan melihat pesan real-time yang diterima dari server setiap 5 detik.
+### • Buka file index.html di browser. Anda akan melihat pesan real-time yang diterima dari server setiap orang melakukan chatting
 
 # Output
-![gambar](ss_hasil/ss_hasil)
+![gambar](ss_hasil/ss.hasil.png)
