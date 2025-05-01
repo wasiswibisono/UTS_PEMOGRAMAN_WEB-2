@@ -1,0 +1,15 @@
+{
+    "name": "websocket-chat",
+    "version": "1.0.0",
+    "description": "Simple WebSocket chat server with HTTP serving an HTML page",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "ws": "^8.7.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
