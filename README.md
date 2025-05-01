@@ -129,3 +129,4 @@ node server.js
 ### • Buka file index.html di browser. Anda akan melihat pesan real-time yang diterima dari server setiap 5 detik.
 
 # Output
+![gambar](ss_hasil/ss_hasil)
